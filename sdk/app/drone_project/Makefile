@@ -19,7 +19,7 @@
 #
 HOME_TREE := ../
 
-MAKE_TARGETS := simple_grabber ultra_simple drone_project
+MAKE_TARGETS := drone_project
 
 include $(HOME_TREE)/mak_def.inc
 
